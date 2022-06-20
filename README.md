@@ -15,3 +15,9 @@ https://github.com/
 ```txt
 https://www.youtube.com/
 ```
+
+# Userjs
+```sh
+curl -O https://raw.githubusercontent.com/arkenfox/user.js/master/updater.sh
+sh updater.sh -l
+```
