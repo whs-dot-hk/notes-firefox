@@ -20,4 +20,5 @@ https://www.youtube.com/
 ```sh
 curl -O https://raw.githubusercontent.com/arkenfox/user.js/master/updater.sh
 sh updater.sh -l
+0
 ```
